@@ -8,4 +8,4 @@
 
 [Intervals: Unifying Uncertainty, Ranges, and Loops](https://www.protechtraining.com/blog/post/866?ncr=1)
 
-~~[discipline laws checking](https://typelevel.org/blog/2013/11/17/discipline.html)
+~~[discipline laws checking](https://typelevel.org/blog/2013/11/17/discipline.html)~~
