@@ -7,3 +7,5 @@
 [everything about sealed](https://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
 
 [Intervals: Unifying Uncertainty, Ranges, and Loops](https://www.protechtraining.com/blog/post/866?ncr=1)
+
+[discipline laws checking](https://typelevel.org/blog/2013/11/17/discipline.html)
