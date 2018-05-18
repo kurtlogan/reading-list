@@ -1,1 +1,1 @@
-[Learn you a haskell](http://learnyouahaskell.com/chapters)
+~~[Learn you a haskell](http://learnyouahaskell.com/chapters)~~
