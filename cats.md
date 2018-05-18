@@ -4,7 +4,7 @@
 
 [covariance and contravariance in scala](https://www.atlassian.com/blog/software-teams/covariance-and-contravariance-in-scala)
 
-[everything about sealed](https://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
+~~[everything about sealed](https://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)~~
 
 [Intervals: Unifying Uncertainty, Ranges, and Loops](https://www.protechtraining.com/blog/post/866?ncr=1)
 
